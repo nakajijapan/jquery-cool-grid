@@ -1,5 +1,5 @@
 {
-    "name": "coolgrid",
+    "name": "Cool Grid",
     "title": "jQuery Cool Grid",
     "description": "jQuery plugin for calclating item's height and show cool list.",
     "keywords": [
@@ -26,10 +26,10 @@
             "url": "https://github.com/nakajijapan/jquery-cool-grid"
         }
     ],
-    "bugs": "https://github.com/nakajijapan/jquery-coolgrid/issues",
-    "homepage": "https://github.com/nakajijapan/jquery-coolgrid/issues",
-    "docs": "https://github.com/nakajijapan/jquery-coolgrid/issues",
-    "download": "http://code.jquery.com/#coolgrid",
+    "bugs": "https://github.com/nakajijapan/jquery-cool-grid/issues",
+    "homepage": "https://github.com/nakajijapan/jquery-cool-grid/issues",
+    "docs": "https://github.com/nakajijapan/jquery-cool-grid/issues",
+    "download": "http://code.jquery.com/#cool-grid",
     "dependencies": {
         "jquery": ">=1.9.1"
     }
