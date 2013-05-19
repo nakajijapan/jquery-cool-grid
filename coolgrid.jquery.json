@@ -31,6 +31,6 @@
     "docs": "https://github.com/nakajijapan/jquery-cool-grid",
     "download": "https://github.com/nakajijapan/jquery-cool-grid",
     "dependencies": {
-        "jquery": ">=1.9.1"
+        "jquery": ">=2.0.0"
     }
 }
