@@ -1,0 +1,36 @@
+{
+    "name": "coolgrid",
+    "title": "jQuery Cool Grid",
+    "description": "jQuery plugin for calclating item's height and show cool list.",
+    "keywords": [
+        "grid",
+        "autoheight",
+        "javascript"
+
+    ],
+    "version": "0.0.1",
+    "author": {
+        "name": "nakajijapan",
+        "url": "https://github.com/nakajijapan/jquery-cool-grid"
+    },
+    "maintainers": [
+        {
+            "name": "nakajijapan",
+            "email": "pp.kupepo.gattyanmo@gmail.com",
+            "url": "http://www.nakajijapan.net"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/nakajijapan/jquery-cool-grid"
+        }
+    ],
+    "bugs": "https://github.com/nakajijapan/jquery-coolgrid/issues",
+    "homepage": "https://github.com/nakajijapan/jquery-coolgrid/issues",
+    "docs": "https://github.com/nakajijapan/jquery-coolgrid/issues",
+    "download": "http://code.jquery.com/#coolgrid",
+    "dependencies": {
+        "jquery": ">=1.9.1"
+    }
+}
