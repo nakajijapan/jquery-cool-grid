@@ -2,12 +2,12 @@
 
 calclate item's height and show items
 
-## Install
+## Installation
 
-```
-npm install -g coffee-script
+Please include script after the jQuery library
 
-coffee -c jquery.coolgrid.coffee
+```js
+<script src="/path/to/jquery.coolgrid.js"></script>
 ```
 
 ## Usage
@@ -21,6 +21,15 @@ options = {
 }
 
 $('.item').CoolGrid(options);
+```
+
+## Development
+
+This plugin is developed using coffeescript.
+
+```
+npm install -g coffee-script
+coffee -c jquery.coolgrid.coffee
 ```
 
 
