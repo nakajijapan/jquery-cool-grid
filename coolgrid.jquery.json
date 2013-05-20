@@ -1,7 +1,7 @@
 {
     "name": "coolgrid",
     "title": "jQuery Cool Grid",
-    "description": "jQuery plugin for calclating item's height and show cool list.",
+    "description": "jQuery plugin for calculating item's height and show cool list.",
     "keywords": [
         "grid",
         "autoheight",
